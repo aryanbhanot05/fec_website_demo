@@ -1,36 +1,92 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# FEC Website Demo
 
-## Getting Started
+A **clean and accessible demo website** built with Next.js, highlighting FEC's branding elements with a consistent color theme, visual hierarchy, and a user-friendly UI for an enhanced browsing experience. This project emphasizes modern frontend best practices using Next.js features and Vercel's [Geist](https://vercel.com/fonts/geist) font for performance and style.[1]
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Consistent FEC Branding:** Colors, layout, and visual hierarchy reflect FEC’s design identity.[1]
+- **Accessible UI:** Focus on readability, keyboard navigation, and semantic HTML elements.
+- **Responsive Design:** Optimized for desktops, tablets, and mobile devices.
+- **Modern Stack:** Built with [Next.js](https://nextjs.org/) using the `create-next-app` starter.
+- **Font Optimization:** Uses `next/font` to auto-optimize and load Geist font family.
+- **Instant Hot Reload:** Fast development workflow with auto-updating pages.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠️ Getting Started
 
-## Learn More
+1. **Clone the repository**
+  ```sh
+    git clone https://github.com/aryanbhanot05/fec_website_demo_by_aryan_bhanot.git
+  ```
 
-To learn more about Next.js, take a look at the following resources:
+2. **Navigate to the project directory**
+  ```sh
+    cd fec_website_demo_by_aryan_bhanot
+  ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+3. **Install dependencies**
+  ```sh
+    npm install
+  ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+4. **Start the development server**
+  ```sh
+    npm run dev
+  ```
 
-## Deploy on Vercel
+Visit [http://localhost:3000](http://localhost:3000) in your browser to view the result.[1]
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📁 Project Structure
+
+<pre><code>
+  fec_website_demo_by_aryan_bhanot/
+  │
+  ├── app/
+  │ └── page.js # Main page component
+  ├── public/ # Static assets (images, icons, etc.)
+  ├── styles/ # CSS/SCSS stylesheets
+  ├── node_modules/
+  ├── package.json
+  ├── README.md
+  └── ... (Next.js config and setup files)
+<code><pre>
+
+
+---
+
+## ✏️ Customization
+
+- **Branding & Content:** Edit colors, logos, and copy in the appropriate components and CSS files.
+- **Pages:** Customize existing pages in `app/` or add new ones as needed.
+- **Fonts:** Easily change or extend font choices using Next.js font optimization features.
+
+---
+
+## ℹ️ Notes
+
+- Built with [Next.js](https://nextjs.org/) for routing, optimization, and scalability.
+- Utilizes Vercel’s Geist font for modern look and fast rendering.[1]
+- Demo is front-end only; no backend integrations.
+
+---
+
+## 📖 Learn More
+
+- ![Next.js Documentation](https://nextjs.org/docs)
+- ![Vercel Fonts (Geist)](https://vercel.com/fonts/geist)
+- ![How to deploy Next.js on Vercel](https://nextjs.org/docs/deployment)
+
+---
+
+## 📞 Contact
+
+Aryan Bhanot – aryanbhanot05@gmail.com  
+LinkedIn: [https://www.linkedin.com/in/aryan-bhanot-609650245/](https://www.linkedin.com/in/aryan-bhanot-609650245/)  
+Project Link: [https://github.com/aryanbhanot05/fec_website_demo_by_aryan_bhanot](https://github.com/aryanbhanot05/fec_website_demo_by_aryan_bhanot)
+
+---
