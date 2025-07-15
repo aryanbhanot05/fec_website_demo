@@ -1,12 +1,12 @@
 # FEC Website Demo
 
-A **clean and accessible demo website** built with Next.js, highlighting FEC's branding elements with a consistent color theme, visual hierarchy, and a user-friendly UI for an enhanced browsing experience. This project emphasizes modern frontend best practices using Next.js features and Vercel's [Geist](https://vercel.com/fonts/geist) font for performance and style.[1]
+A **clean and accessible demo website** built with Next.js, highlighting FEC's branding elements with a consistent color theme, visual hierarchy, and a user-friendly UI for an enhanced browsing experience. This project emphasizes modern frontend best practices using Next.js features and Vercel's [Geist](https://vercel.com/fonts/geist) font for performance and style.
 
 ---
 
 ## 🚀 Features
 
-- **Consistent FEC Branding:** Colors, layout, and visual hierarchy reflect FEC’s design identity.[1]
+- **Consistent FEC Branding:** Colors, layout, and visual hierarchy reflect FEC’s design identity.
 - **Accessible UI:** Focus on readability, keyboard navigation, and semantic HTML elements.
 - **Responsive Design:** Optimized for desktops, tablets, and mobile devices.
 - **Modern Stack:** Built with [Next.js](https://nextjs.org/) using the `create-next-app` starter.
@@ -37,7 +37,7 @@ A **clean and accessible demo website** built with Next.js, highlighting FEC's b
     npm run dev
   ```
 
-Visit [http://localhost:3000](http://localhost:3000) in your browser to view the result.[1]
+Visit [http://localhost:3000](http://localhost:3000) in your browser to view the result.
 
 ---
 
@@ -54,7 +54,7 @@ Visit [http://localhost:3000](http://localhost:3000) in your browser to view the
   ├── package.json
   ├── README.md
   └── ... (Next.js config and setup files)
-<code><pre>
+</code></pre>
 
 
 ---
@@ -70,16 +70,16 @@ Visit [http://localhost:3000](http://localhost:3000) in your browser to view the
 ## ℹ️ Notes
 
 - Built with [Next.js](https://nextjs.org/) for routing, optimization, and scalability.
-- Utilizes Vercel’s Geist font for modern look and fast rendering.[1]
+- Utilizes Vercel’s Geist font for modern look and fast rendering.
 - Demo is front-end only; no backend integrations.
 
 ---
 
 ## 📖 Learn More
 
-- ![Next.js Documentation](https://nextjs.org/docs)
-- ![Vercel Fonts (Geist)](https://vercel.com/fonts/geist)
-- ![How to deploy Next.js on Vercel](https://nextjs.org/docs/deployment)
+- [Next.js Documentation](https://nextjs.org/docs)
+- [Vercel Fonts (Geist)](https://vercel.com/fonts/geist)
+- [How to deploy Next.js on Vercel](https://nextjs.org/docs/deployment)
 
 ---
 
