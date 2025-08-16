@@ -28,7 +28,7 @@ const SignupPage = () => {
   };
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gray-100">
+    <div className="min-h-screen flex items-center justify-center bg-gray-900">
       <div className="bg-white p-8 rounded-lg shadow-md w-96">
         <h2 className="text-2xl font-bold mb-6 text-center text-gray-800">Create Account</h2>
         <form onSubmit={handleSignup}>
@@ -73,7 +73,7 @@ const SignupPage = () => {
               onChange={(e) => setPassword(e.target.value)}
               required
             />
-            <p className="text-xs italic">Password must be at least 8 characters long and contain at least one number and one special character.</p>
+            <p className="text-black text-xs italic">Password must be at least 8 characters long and contain at least one number and one special character.</p>
           </div>
           <div className="flex items-center justify-between">
             <button
